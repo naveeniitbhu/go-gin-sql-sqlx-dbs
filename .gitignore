@@ -1,0 +1,9 @@
+data/
+go-in-docker
+:memory
+data
+Test_Details.md
+main_sql_sqlite3
+main
+memory.db
+db/
